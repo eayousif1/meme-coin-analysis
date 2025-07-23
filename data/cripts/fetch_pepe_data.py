@@ -30,3 +30,5 @@ def fetch_and_save(days=30):
 
 if __name__ == '__main__':
     fetch_and_save(days=30)
+
+Add script to fetch PEPE data
