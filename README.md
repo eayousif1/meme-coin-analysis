@@ -1,5 +1,5 @@
 # meme-coin-analysis
-# Pepe Coin Sentiment & Price Analysis 📉🐸
+# Pepe Coin Sentiment & Price Analysis 🐸
 
 This project explores how public sentiment on Twitter correlates with the price of Pepe Coin over the past month.
 
