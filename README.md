@@ -1,4 +1,5 @@
 # meme-coin-analysis
+HEAD
 # Pepe Coin Sentiment & Price Analysis 🐸
 
 This project explores how public sentiment on Twitter correlates with the price of Pepe Coin over the past month.
@@ -20,3 +21,6 @@ This project explores how public sentiment on Twitter correlates with the price 
 - `pepe_tweets.csv`: tweet content + timestamps
 - `pepe_sentiment_insights.csv`: merged price/sentiment with analysis columns
 
+
+Analyzing meme coin trends and social media impact using Python
+ ba70e04 (Initial upload: Pepe Coin price + sentiment analysis)
